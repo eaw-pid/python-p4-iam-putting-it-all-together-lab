@@ -22,3 +22,9 @@ db.init_app(app)
 bcrypt = Bcrypt(app)
 
 api = Api(app)
+
+
+##TC Questions
+##1) Models - Character min text failing
+##2) Sign up Feature - Adding error message - using try/except vs. if/else
+##3) Look at recipe index Post
